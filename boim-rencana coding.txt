@@ -1,5 +1,7 @@
 RENCANA CODING BOIM 
 
 - JAVA SCRIPT & CSS
+    * dasar->menengah
+    * Frameworks Java Script
 - PHP FRAMEWORKS
 - PROJECT
