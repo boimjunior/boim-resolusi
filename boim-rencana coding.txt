@@ -1,7 +1,10 @@
 RENCANA CODING BOIM 
-- Struktur Data
+
 - JAVA SCRIPT & CSS
     * dasar->menengah
     * Frameworks Java Script
+      Angular
+      React
 - PHP FRAMEWORKS
+      Laravel
 - PROJECT
