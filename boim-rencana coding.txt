@@ -3,8 +3,9 @@ RENCANA CODING BOIM
 - JAVA SCRIPT & CSS
     * dasar->menengah
     * Frameworks Java Script
-      Angular
-      React
+      View
+      react
 - PHP FRAMEWORKS
       Laravel
+- Phyton
 - PROJECT
